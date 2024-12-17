@@ -1,0 +1,16 @@
+# Ignore the folders that Unreal creates for build and intermediate files.
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore the .vs folder (Visual Studio settings)
+.vs/
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore config and local settings files
+*.suo
+*.user
+*.userprefs
